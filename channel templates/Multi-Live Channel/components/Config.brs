@@ -16,7 +16,7 @@ Function loadConfig() as Object
     Title: "Roku Example One"
     streamFormat: "mp4"
     Logo: "https://placeholdit.imgix.net/~text?txtsize=33&txt=channel+logo&w=267&h=150"
-    Stream: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    Stream: "https://cdn.discordapp.com/attachments/1240750985115074690/1256280793286840452/lv_7379104619403709716_20240627190123.mp4?ex=66803229&is=667ee0a9&hm=8f00f56ffd87fdbc34f9e72cccb50e3754024dc5189f392a001efbe311612b78&"
 }
 {
     Title: "Roku Example Two"
