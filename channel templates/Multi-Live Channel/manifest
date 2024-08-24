@@ -1,7 +1,7 @@
 title=MultiLive
-major_version=1
-minor_version=0
-build_version=247
+major_version=6
+minor_version=9
+build_version=420
 mm_icon_focus_hd=pkg:/images/multi-channel-poster.png
 requires_audiometadata=1
 bs_libs_required=roku_ads_lib
